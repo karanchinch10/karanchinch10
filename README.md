@@ -4,8 +4,8 @@
 
 
   
-👀 <h4> I have knowledge of ML and work on different Ml projects <h4>
-🙂<h4> words that describe me -- self motivated, Focused, Hardworking and Perfectionist <h4>
+<h4>👀 I have knowledge of ML and work on different Ml projects 🖥️<h4>
+<h4>🙂 words that describe me -- self motivated, Focused, Hardworking and Perfectionist <h4>
 
   
 💕 Reach me on 💕
