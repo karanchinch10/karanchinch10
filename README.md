@@ -1,5 +1,5 @@
-<h1> Hii there, its Karan 👋 (Karan Chinchpure) 💕<h1> 
-<h2> Machine Learning Enthusiast | Python Developer | <h2>
+<h1> Hii there, its Karan 👋 (Karan Chinchpure) <h1> 
+<h2> Machine Learning Enthusiast | Python Developer | 💕<h2>
 <h3> To utilize my knowledge and ideas in this field of machine learning with well mathematical background & proficient in python, Data analytics & machine learing algorithms . Seeking a challenging position in a technical organization that fully utilizes my skills and provides me opportunities to grow while working towards the organizational goals. <h3>
 
 
