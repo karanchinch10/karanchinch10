@@ -11,6 +11,7 @@
 💕 Reach me on 💕
 * My Profile in https://www.linkedin.com/in/karan433155/
 * My contribution in Data science https://www.kaggle.com/karanchinchpure 
+* My Blogs https://medium.com/@karan433155
  
 
 
