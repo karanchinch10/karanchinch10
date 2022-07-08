@@ -4,7 +4,9 @@
 
 
   
-<h4>👀 I have work on different Ml and Pyhton projects 🖥️<h4>
+<h4>👀 I have work on different Ml and Pyhton projects please find link attached below to get my projects🖥️<h4> 
+<a href="https://karanchinch10.github.io/My_Projects_Portfolio/">👉 View My Projects</a> 💝
+
 <h4>🙂 words that describe me -- self motivated, Focused, Hardworking and Perfectionist <h4>
 
   
