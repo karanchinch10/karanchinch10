@@ -11,10 +11,10 @@
 
   
 💕 Reach me on 💕
-* My Profile in https://www.linkedin.com/in/karan433155/
-* My contribution in Data science https://www.kaggle.com/karanchinchpure 
-* My Blogs https://medium.com/@karan433155
- 
+* My Profile in <a href="https://www.linkedin.com/in/karan433155/"><strong>Linkedin Profile</strong></a> 
+* My contribution in Data science <a href="https://www.kaggle.com/karanchinchpure"><strong>Kaggle Profile</strong></a> 
+* My Blogs <a href="https://medium.com/@karan433155"><strong>My Blogs</strong></a>
+* <a href="https://karanchinch10.github.io/My_Projects_Portfolio/">👉 <b>View My Projects</b></a> 
 
 
 
