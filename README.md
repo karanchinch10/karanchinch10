@@ -5,8 +5,8 @@ Currently working as Data Engineer Skilled in Data Warehousing, ETL Tools, MySQL
 Looking for opportunities in the field of data science that allow me to grow while working towards organization goals.
 
 ### Technologies & Frameworks I have worked with:
- | Python | SQL | Spark | AWS Redshift | Elastic Search | Ruby | Linux | 
- | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-----: |
+ | Python | SQL | Spark | AWS Redshift | ETL | Ruby | Linux | ElasticSearch
+ | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-----: | :-----: |
   
 <h4>👀 I have work on different Ml and Pyhton projects please find link attached below to get my projects🖥️<h4> 
 <a href="https://karanchinch10.github.io/My_Projects_Portfolio/">👉 <b>View My Projects</b></a> 💝
