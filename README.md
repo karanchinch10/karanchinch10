@@ -1,8 +1,12 @@
-<h1> Hii there, its Karan 👋 (Karan Chinchpure) </h1>
-<h2> Data Science | Data Engineer | Machine Learning Enthusiast 💕</h2>
-<h3> To utilize my knowledge and ideas in this field of machine learning with well mathematical background & proficient in python, Data analytics & machine learing algorithms . Seeking a challenging position in a technical organization that fully utilizes my skills and provides me opportunities to grow while working towards the organizational goals. <h3>
+<h2> Hii there, its Karan 👋 (Karan Chinchpure) </h2>
+<h3> Data Science | Data Engineer | Machine Learning Enthusiast 💕</h3>
+I am passionate about Data Science with a constant learning mindset to enhance and implement my Skills, Knowledge and Experience to solve real life problem. 
+Currently working as Data Engineer Skilled in Data Warehousing, ETL Tools, MySQL, Python, AWS Services, AWS Glue, Redshift, Linux, Elastic Search, API, Web Scraping Selenium, Data Manipulation with Pandas Numpy, Advanced Excel. Also I have been working on different Data Science projects to implement my Skills, Knowledge and Experience. 
+Looking for opportunities in the field of data science that allow me to grow while working towards organization goals.
 
-
+### Technologies & Frameworks I have worked with:
+ | Python | SQL | Spark | AWS Redshift | Elastic Search | Ruby | Linux | 
+ | :---: | :---: | :---: | :-----: | :-----: | :-----: | :-----: |
   
 <h4>👀 I have work on different Ml and Pyhton projects please find link attached below to get my projects🖥️<h4> 
 <a href="https://karanchinch10.github.io/My_Projects_Portfolio/">👉 <b>View My Projects</b></a> 💝
